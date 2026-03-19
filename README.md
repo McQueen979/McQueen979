@@ -1,7 +1,7 @@
 # Hi 👋, I'm Frieren
 
 ### 愿你的剑永远锋利
-<a href="https://github.com/McQueen979" target="_blank"><img  align=center src="https://img.shields.io/badge/Github-McQueen979-%230061ff?style=flat"/></a>  
+<a href="https://github.com/McQueen979" target="_blank"><img  align=center src="https://img.shields.io/badge/Github-McQueen979-%230061ff?style=flat"/></a> 
 <a href="https://space.bilibili.com/308641611?spm_id_from=333.1365.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili-我说上帝看我-%23ff41b7?style=flat"/></a>
 
 - 📫 How to reach me **454239295@qq.com**
