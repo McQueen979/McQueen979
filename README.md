@@ -5,10 +5,6 @@
 ### 🛠️ Tech Stack
 - Java / Spring Boot / Spring MVC
 - MySQL / Maven / Git / MyBatis
-### 🎯 Focus
-- Build a solid foundation
-- Develop real projects
-- Keep consistent output
 ### 💼 Job Seeking 
 Seeking for Java Developer / Backend Position
 ### 📫 Contact 
