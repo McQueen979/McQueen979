@@ -11,7 +11,7 @@
 Seeking for Java Developer / Backend Position
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,docker,git,java,ollama,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,c,docker,git,java,py,linux,powershell)](https://skillicons.dev)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
